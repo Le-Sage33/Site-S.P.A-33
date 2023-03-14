@@ -1,0 +1,15 @@
+img {
+    height: 120px;
+    width: 120px;
+    padding: 5px;
+    margin-left: 5rem;
+}
+header {
+    background-color: $white;
+    box-shadow: 0px 2px 5px $graylight;
+    padding-right: 5rem;
+    font-family: $main-font;
+}
+.navbar-nav a {
+    color:$darkblue;
+}

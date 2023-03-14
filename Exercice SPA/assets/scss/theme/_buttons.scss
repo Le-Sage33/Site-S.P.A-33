@@ -1,0 +1,31 @@
+
+// bouttons nos chien/chat à adopter
+
+.btn-adopt-chiat {
+    color: $white;
+    background-color: $darkblue;
+    text-align: center;
+    font-family: $main-font;
+    text-decoration: none;
+    padding: 1rem;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+// boutton acteReflechi nousTrouver unDon
+.btn-icons {
+    color:$darkblue;
+    background-color:rgb(98, 177, 177);
+    font-family: $main-font;
+    text-decoration: none;
+    
+    
+}
+// boutton ils vous attendent
+.btn-attendent {
+    color:$darkblue;
+    background-color:$white;
+    font-family: $main-font;
+    text-align: center;
+}

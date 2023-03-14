@@ -1,0 +1,156 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url(../fonts/ROBOTO/Roboto-Regular.ttf);
+}
+body {
+  font-family: "Roboto-Regular";
+}
+
+h1 {
+  color: #22234F;
+  font-size: 2rem;
+  text-align: center;
+  margin: 3rem;
+  font-family: "Roboto-Regular";
+  border-bottom: 2px solid #EF4D55;
+}
+
+h2 {
+  color: #22234F;
+  text-align: center;
+  font-family: "Roboto-Regular";
+}
+
+.btn-adopt-chiat {
+  color: #ffffff;
+  background-color: #22234F;
+  text-align: center;
+  font-family: "Roboto-Regular";
+  text-decoration: none;
+  padding: 1rem;
+}
+
+.btn-acte-reflechi {
+  color: #22234F;
+  background-color: transparent;
+  font-family: "Roboto-Regular";
+  text-align: center;
+}
+
+.btn-nous-trouver {
+  color: #22234F;
+  background-color: transparent;
+  font-family: "Roboto-Regular";
+  text-align: center;
+}
+
+.btn-faire-don {
+  color: #22234F;
+  background-color: transparent;
+  font-family: "Roboto-Regular";
+  text-align: center;
+}
+
+.btn-attendent {
+  color: #22234F;
+  background-color: #ffffff;
+  font-family: "Roboto-Regular";
+  text-align: center;
+  height: 5rem;
+}
+
+footer {
+  background-color: #22234F;
+  justify-content: center;
+  text-align: center;
+}
+
+logo-asso {
+  background-color: #ffffff;
+  background-size: cover;
+}
+
+logo-asso img {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  color: #ffffff;
+}
+
+#adoptez .left-dog {
+  background-image: url(../img/chiens-adoption-spa.jpg);
+  background-size: cover;
+  background-position: top;
+  margin: 5px;
+  height: 30vh;
+  width: 45%;
+  position: relative;
+}
+#adoptez .left-dog .btn-adopt-chiat {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#adoptez .right-cat {
+  background-image: url(../img/chats-adoption-spa.jpg);
+  background-size: cover;
+  background-position: top;
+  margin: 5px;
+  height: 30vh;
+  width: 45%;
+  position: relative;
+}
+#adoptez .right-cat .btn-adopt-chiat {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.kila {
+  background-image: url(../img/Kila.jpg); 
+  margin: 5px;
+  height: 200px;
+  width: 150px;
+}
+.seiba {
+  background-image: url(../img/Seiba.jpg);
+  margin: 5px;
+  height: 200px;
+  width: 150px;
+}
+.nouma {
+  background-image: url(../img/Nouma.jpg);
+  margin: 5px;
+  height: 200px;
+  width: 150px;
+}
+.marquis {
+  background-image: url(../img/Marquis.jpg);
+  margin: 5px;
+  height: 200px;
+  width: 150px;
+}
+
+img {
+  height: 120px;
+  width: 120px;
+  padding: 5px;
+  margin-left: 5rem;
+}
+
+header {
+  background-color: #ffffff;
+  box-shadow: 0px 2px 5px #e6e5e5;
+  padding-right: 5rem;
+  font-family: "Roboto-Regular";
+}
+
+.navbar-nav a {
+  color: #22234F;
+}
+
+/*# sourceMappingURL=style.css.map */

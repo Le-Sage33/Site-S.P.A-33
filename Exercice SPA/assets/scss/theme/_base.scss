@@ -1,0 +1,21 @@
+body {
+    font-family: $main-font;
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    color: $darkblue;
+    font-size: 2rem;
+    text-align: center;
+    margin: 3rem;
+    font-family: $main-font;
+    border-bottom: 2px solid $red;
+
+}
+h2 {
+    color: $darkblue;
+    text-align: center;
+    font-family: $main-font;
+}
+
